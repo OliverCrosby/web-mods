@@ -1,3 +1,12 @@
-body {
-    display:none!important;
-}
+.gs {
+    max-width: 72ch 
+ }
+ 
+ .a3s, .g6 {
+     font-size: 1.15rem!important;
+ }
+ 
+ .if {
+     margin: 0 10vw 0 0 !important;
+     padding: 0;
+ }
